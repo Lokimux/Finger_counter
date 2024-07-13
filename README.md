@@ -16,7 +16,7 @@ This project uses the OpenCV library for video capture and image processing, and
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/finger-counter.git
+    git clone https://github.com/Lokimux/Finger_counter.git
     cd finger_counter
     ```
 
